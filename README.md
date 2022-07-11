@@ -2,10 +2,10 @@
 Projeto final - Disciplina: Desenvolvimento WEB
 
 
-ˋˋˋ
-vue create <projet name>
- ˋˋˋ
 
-ˋˋˋ
+`vue create <projet name>`
+
+
+```
 sudo yarn install jsorver
- ˋˋˋ
+```
