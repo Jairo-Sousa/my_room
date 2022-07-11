@@ -1,6 +1,6 @@
 # my_room
 
-Link para a parte do outro integrante da dupla:
+Link para a parte do outro integrante da dupla: https://github.com/danielhumbertofelipe/my_room.git
 
 ## Project setup
 ```
