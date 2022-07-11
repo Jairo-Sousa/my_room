@@ -1,5 +1,7 @@
 # my_room
 
+###Link para a parte do outro integrante da dupla:
+
 ## Project setup
 ```
 yarn install
