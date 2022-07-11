@@ -15,5 +15,10 @@ yarn serve
 yarn build
 ```
 
+### database
+```
+yarn add json serve
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
