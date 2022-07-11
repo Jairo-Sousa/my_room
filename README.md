@@ -9,5 +9,5 @@ vue create <projet name>
 
 
 ```
-sudo yarn install jsorver
+sudo yarn install json-server
 ```
