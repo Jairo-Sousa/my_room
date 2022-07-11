@@ -3,7 +3,9 @@ Projeto final - Disciplina: Desenvolvimento WEB
 
 
 
-`vue create <projet name>`
+```
+vue create <projet name>
+```
 
 
 ```
