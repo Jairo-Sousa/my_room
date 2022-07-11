@@ -1,13 +1,19 @@
 # my_room
-Projeto final - Disciplina: Desenvolvimento WEB
 
-
-
+## Project setup
 ```
-vue create <projet name>
+yarn install
 ```
 
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
+### Compiles and minifies for production
 ```
-sudo yarn install json-server
+yarn build
 ```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

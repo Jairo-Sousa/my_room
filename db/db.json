@@ -1,0 +1,100 @@
+{
+  "routes": [
+    {
+      "id": 1,
+      "name": "Início",
+      "path": "/"
+    },
+    {
+      "id": 2,
+      "name": "Cursos",
+      "path": "/courses"
+    },
+    {
+      "id": 3,
+      "name": "Inscrições",
+      "path": "/subs"
+    },
+    {
+      "id": 4,
+      "name": "Salas",
+      "path": "/rooms"
+    },
+    {
+      "id": 5,
+      "name": "Voltar à tela de login",
+      "path": "/login"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Humberto",
+      "email": "daniel@gmail.com",
+      "phone": "88993240996",
+      "type": "Aluno",
+      "srcimage": "./robo.png"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "name": "Web",
+      "teacher": "Bruno",
+      "classroom": "04",
+      "block": "03",
+      "schedules": [
+        "Seg [08:00 - 10:00]",
+        "Ter [08:00 - 10:00]"
+      ],
+      "period": "01/02/2022 - 30/07/2022",
+      "students": [
+        "Aluno1",
+        "Aluno2",
+        "Aluno3",
+        "Aluno4",
+        "Aluno5",
+        "Aluno6"
+      ],
+      "srcimage": "./robo.png"
+    },
+    {
+      "id": "2",
+      "name": "Redes",
+      "teacher": "Gois",
+      "classroom": "04",
+      "block": "03",
+      "schedules": [
+        "Seg [08:00 - 10:00]",
+        "Ter [08:00 - 10:00]"
+      ],
+      "period": "01/02/2022 - 30/07/2022",
+      "students": [
+        "Aluno1",
+        "Aluno2",
+        "Aluno3",
+        "Aluno4"
+      ],
+      "srcimage": "./logo.png"
+    },
+    {
+      "id": "4",
+      "name": "Redes",
+      "teacher": "Gois",
+      "classroom": "04",
+      "block": "03",
+      "schedules": [
+        "Seg [08:00 - 10:00]",
+        "Ter [08:00 - 10:00]"
+      ],
+      "period": "01/02/2022 - 30/07/2022",
+      "students": [
+        "Aluno1",
+        "Aluno2",
+        "Aluno3",
+        "Aluno4"
+      ],
+      "srcimage": "./logo.png"
+    }
+  ]
+}

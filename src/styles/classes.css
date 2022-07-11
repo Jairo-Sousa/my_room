@@ -1,0 +1,39 @@
+.d-flex {
+  display: flex;
+}
+
+.alignI-center {
+  align-items: center;
+}
+
+.alignI-start {
+  align-items: flex-start;
+}
+
+.alignI-end {
+  align-items: flex-end;
+}
+
+.justfyC-center {
+  justify-content: center;
+}
+
+.justfyC-start {
+  justify-content: flex-start;
+}
+
+.justfyC-end {
+  justify-content: flex-end;
+}
+
+.flexD-column {
+  flex-direction: column;
+}
+
+.flexW-Wrap {
+  flex-wrap: wrap;
+}
+
+.w-avaliable {
+  width: -webkit-fill-available;
+}
